@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi everyone 👋
+
+:boy: I'm currently workin on Banco Pichincha, first Ecuador's bank, I'm beginning a new work in Data Science.
+:four_leaf_clover: I'm currently learning about Data Science and Inteligence Artificial, I'm nob about this world
+:maple_leaf: I'm exicted to learn new skills.
+:dog: I'm looking for help to people who they don't have acces to education in my countri. I would love to teach them about matemathics and Science.
+:book: I love read science fiction novel book, and I love hiking in the mountain.
+Ask me about mi culture, I'm part of indigenous people in my country, and I can teach you about my culture.
+You can reach me in LinkedIn as Kuntur Muenala.
+
+Thanks.
 
 <!--
 **Kuntur-Mallku/Kuntur-Mallku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
