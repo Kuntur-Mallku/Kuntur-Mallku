@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-:boy: I'm currently workin on Banco Pichincha, first Ecuador's bank, I'm beginning a new work in Data Science.
+:boy: I'm currently workin on UDLA, Universidad de las Americas in Ecuador, I'm a Data Science.
 :four_leaf_clover: I'm currently learning about Data Science and Inteligence Artificial, I'm nob about this world
 :maple_leaf: I'm exicted to learn new skills.
 :dog: I'm looking for help to people who they don't have acces to education in my countri. I would love to teach them about matemathics and Science.
